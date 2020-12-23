@@ -17,7 +17,7 @@ The following repos are all open source projects. The routine-recommendation is 
 
 {% endfor %}
 
-I also worked on another project for a different class, which will also be open source:
+## Other Projects
 
 ### [MyBind3r](https://github.com/salvolpe/MyBind3r)
-We want to create an online version of the binders that stage managers use in theater. This would help with digitalizing their notes, and smoother communication in this post-corona world. 
+COMS 4170: We want to create an online version of the binders that stage managers use in theater. This would help with digitalizing their notes, and smoother communication in this post-corona world. 
