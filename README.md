@@ -1,2 +1,2 @@
-# routine-recommendation.github.io
-Github Pages site for routine-recommendation
+# personal-page.github.io
+Github Pages site for me :)
