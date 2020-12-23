@@ -1,32 +1,6 @@
-## Welcome to GitHub Pages
+## This is my public repos listing page
 
-You can use the [editor on GitHub](https://github.com/selena-huang/routine-recommendation.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The following repos are all open source projects. The routine-recommendation is for COMS 4995 - Open Source Development.
 
 {% assign orderedRepos = site.github.public_repositories | sort: 'stargazers_count' | reverse %}
 {% for repository in orderedRepos %}
@@ -42,3 +16,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 </div>
 
 {% endfor %}
+
+I also worked on another project for a different class, which will also be open source:
+
+### [MyBind3r](https://github.com/salvolpe/MyBind3r)
+We want to create an online version of the binders that stage managers use in theater. This would help with digitalizing their notes, and smoother communication in this post-corona world. 
